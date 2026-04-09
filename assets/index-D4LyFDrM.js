@@ -12664,7 +12664,7 @@ const hy = () => {
       })]
     })
   },
-  vy = "" + new URL("profile-avatar--B4r6CRgo.jpeg", import.meta.url)
+  vy = "" + new URL("profile.jpg", import.meta.url)
   .href,
   gy = () => {
     const [e, t] = g.useState("about"), n = () => {
