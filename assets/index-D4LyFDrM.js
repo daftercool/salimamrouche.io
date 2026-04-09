@@ -12239,7 +12239,7 @@ const cy = ({
         children: [h.jsx("p", {
           children: "I am an undergraduate data science student at the National Institute Specialized in Technology, Rahmania, Algiers Centre."
         }), h.jsx("p", {
-          children: "I have experience as a data scientist in the construction sector, where I specialize in driving innovation through data science and data analysis. My current research interests include learning new technologies, studying advanced data science research papers, and acquiring a wide range of new skills."
+          children: "I have experience as a data scientist in the construction and assurance sectors, where I specialize in driving innovation through data science . My current research interests include learning new technologies, studying advanced data science research papers, and acquiring a wide range of new skills."
         })]
       }), h.jsxs("div", {
         children: [h.jsxs("h3", {
@@ -12282,8 +12282,13 @@ const cy = ({
       }],
       t = [{
         title: "Data Science Stage",
+        company: "CAAT Assurances ·",
+        period: "2025-present",
+        details: "Algeria · On-site"
+      }, {
+        title: "Data Science Stage",
         company: "Cosider Carrières · Apprenticeship",
-        period: "Oct 2025 - Present",
+        period: "Oct 2025 - march 2026",
         details: "Algeria · On-site"
       }, {
         title: "Remote Help Desk",
@@ -12659,7 +12664,7 @@ const hy = () => {
       })]
     })
   },
-  vy = "" + new URL("profile-avatar-B4r6CRgo.png", import.meta.url)
+  vy = "" + new URL("profile-avatar--B4r6CRgo.jpeg", import.meta.url)
   .href,
   gy = () => {
     const [e, t] = g.useState("about"), n = () => {
